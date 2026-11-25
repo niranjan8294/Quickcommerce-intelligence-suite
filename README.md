@@ -13,7 +13,7 @@
 **A production-quality, end-to-end quick-commerce analytics platform**  
 **covering descriptive → diagnostic → predictive → prescriptive analytics**
 
-*Maintained by [Niranjan Bhagat](https://github.com/NiranjanBhagat)*
+ By [Niranjan Bhagat](https://github.com/NiranjanBhagat)*
 
 </div>
 
@@ -475,21 +475,7 @@ Based on the analysis (derived from synthetic data — patterns may not apply to
 
 ---
 
-## 📜 Original Source & Acknowledgements
 
-This project is a **transformation and significant extension** of the original work:
-
-**Original Project**: QCommerce Intelligence Suite — Delivery & Customer Analytics  
-**Original Author**: Danish Shaikh  
-**GitHub**: [github.com/DanishShaikh18](https://github.com/DanishShaikh18)  
-**LinkedIn**: [linkedin.com/in/danish-shaikh-b6442a212](https://www.linkedin.com/in/danish-shaikh-b6442a212/)  
-**License**: MIT (preserved — see [LICENSE](LICENSE))
-
-The original project provided:
-- The raw 100K synthetic dataset
-- Initial EDA notebooks (Extract.ipynb, Analysis.ipynb, Load.ipynb)
-- Original SQL transformation script
-- Original README and EDA report
 
 All original copyright notices and MIT License requirements have been preserved. See [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for a detailed breakdown.
 
@@ -533,7 +519,7 @@ Data Analyst | Full-Stack Developer | Data Scientist
 
 **⚡ Built with passion for data analytics and quick-commerce intelligence**
 
-*Original dataset and notebooks by [Danish Shaikh](https://github.com/DanishShaikh18) — MIT License*  
-*Transformation and extensions by [Niranjan Bhagat](https://github.com/NiranjanBhagat) — 2025*
+*Original dataset and notebooks — MIT License*  
+*Transformation and extensions by [Niranjan Bhagat](https://github.com/NiranjanBhagat)
 
 </div>
